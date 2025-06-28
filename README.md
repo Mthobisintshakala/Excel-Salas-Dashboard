@@ -33,7 +33,7 @@ Key visualizations include:
 
 ## 📊 Sales Dashboard
 
-
+![Sales Dashboard](https://github.com/user-attachments/assets/5e89ffb5-ea7d-4e08-ac7f-eccdf799e519)
 
 
 
